@@ -1,8 +1,19 @@
-Business Question :
-Why conversion drops across the sales funnel and which stage contributes the most to revenue loss?
+🔍 Revenue Impact & Funnel Optimization Insight
 
-What i found regarding conversion :
-1. The largert user drop occurs between Cart to Purchase, with conversion rate 46.91%
-2. 70.21% users add product to Cart, meaning the whistlist is relative high but purchase rate still low than 50%.
-3. This indicates potential issues in urgency to buy, related to pricing perception or CTA visibility.
-4. Improving product limited discount, such as flashsale discount with limited time, could significantly increase purchase conversion and will yield the highest impact on overall revenue.
+The largest drop-off occurs at the Cart → Purchase stage, indicating high purchase intent but significant checkout friction.
+
+Despite a healthy volume of users reaching the cart, a substantial portion fails to complete the transaction, suggesting issues such as pricing transparency, shipping cost shock, payment failure, or checkout UX complexity.
+
+Revenue analysis shows that increasing late-stage conversion yields higher and faster impact compared to acquiring new traffic or improving early funnel stages.
+
+Simulation results indicate that a 1–5% improvement in Cart → Purchase conversion could generate a meaningful increase in completed purchases without additional marketing spend.
+
+This highlights checkout optimization as a high-ROI growth lever, where small UX or payment improvements can directly translate into revenue gains.
+
+📌 Business Recommendation
+
+Prioritize checkout flow optimization, including payment success rate, cost transparency, and UX simplification.
+
+Run A/B testing on checkout pages to identify friction points.
+
+Monitor Cart → Purchase conversion as a core KPI for short-term revenue growth.
