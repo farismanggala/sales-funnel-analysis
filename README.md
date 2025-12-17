@@ -59,6 +59,8 @@ Each row represents a user action, enabling full funnel and drop‑off analysis 
 
 While early‑stage engagement is relatively strong, a significant portion of high‑intent users fails to complete the purchase.
 
+Funnel metrics were validated using SQL (SQLite) to ensure consistency across tools. SQL results matched Python analysis, confirming user-level funnel logic.
+
 ---
 
 ## Drop‑Off Analysis
